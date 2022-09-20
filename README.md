@@ -260,15 +260,8 @@ Function Prototypes
 <details>
     <summary>Suara Ayomide</summary>
     <ul>
-    <li><a href="https://www.github.com/aysuarex">Github</a></li>
-    <li><a href="https://www.twitter.com/Aysuarex">Twitter</a></li>
-    <li><a href="mailto:aysuarex@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/Odsyesufu7">Github</a></li>
+    <li><a href="https://www.twitter.com/Matrixsheyo">Twitter</a></li>
+    <li><a href="mailto:syesufu2000@yahoo.com">e-mail</a></li>
     </ul>
 </details>
-<details>
-    <summary>Jozinna Chioma</summary>
-    <ul>
-    <li><a href="https://www.github.com/chioma2000">Github</a></li>
-    <li><a href="https://www.twitter.com/jozinnachioma">Twitter</a></li>
-    <li><a href="mailto:chichipeace2000@yahoo.ca">e-mail</a></li>
-    </ul>
